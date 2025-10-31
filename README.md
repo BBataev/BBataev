@@ -1,13 +1,13 @@
 ## 👋 Greetings, I'm Bakar Bataev
 
-**Golang Backend Developer** with 3+ years of experience building and optimizing high-load systems in the finance and energy sectors. I specialize in designing microservices, improving database performance, and creating robust, scalable infrastructure.
+**Golang Backend Developer** with 3 years of experience building and optimizing high-load systems in the finance and energy sectors. I specialize in designing microservices, improving database performance, and creating robust, scalable infrastructure.
 
 ---
 
 ### 🛠️ Technologies & Skills
 
 *   **Language:** Golang
-*   **Databases & Storage:** PostgreSQL, ClickHouse, Redis, Dragonfly, Elasticsearch
+*   **Databases:** PostgreSQL, ClickHouse, Redis, Dragonfly, Elasticsearch
 *   **APIs & Communication:** REST, gRPC
 *   **Message Brokers:** Kafka, RabbitMQ
 *   **Infrastructure & DevOps:** Docker, Kubernetes, AWS, Grafana, Linux, Git
@@ -16,7 +16,7 @@
 
 ### 💼 Professional Experience
 
-#### **Golang Developer** @ RedLab *(Aug 2023 - Oct 2025)*
+#### **Golang Developer** @ RedLab *(Aug 2023 - Present)*
 *   Engineered secure data export systems for client, payment, and debt information.
 *   Developed validation mechanisms that eliminated critical billing errors.
 *   Automated the energy supply restriction process and integrated with notification platforms.
